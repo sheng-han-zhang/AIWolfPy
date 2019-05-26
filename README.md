@@ -1,3 +1,11 @@
+# Important(2019/05/26)
+このバージョンのpython_sample.pyを利用すると、サーバー側の計算量制限に違反して失格になる可能性が高いです。利用は非推奨です。  
+最新の安定板はmasterブランチ、開発中のものはdevelopブランチになります。  
+
+Using this version of python_sample.py is likely to be disqualified for violating server side computational limits.  
+This version is now deprecated.
+The latest stable version is the master branch and the one under development is the develop branch.  
+
 # AIWolfPy
 
 aiwolf.orgさんの人狼知能サーバーに、pythonから接続するためのパッケージです。　　
